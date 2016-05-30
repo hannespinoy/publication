@@ -126,8 +126,25 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW ME&nbsp;",
+          "text": "FOLLOW ME &nbsp;",
           "icons": "    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/hannespinoy/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a>"
         }
       ]
     },
@@ -572,6 +589,23 @@
           },
           "_anchor": "gallery1-23",
           "articleLayout": false
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a>"
         },
         {
           "_inherit": "menu",
